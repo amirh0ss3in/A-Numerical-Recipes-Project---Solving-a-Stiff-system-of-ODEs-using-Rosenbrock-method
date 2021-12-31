@@ -2,6 +2,9 @@
 ## Solving a Stiff System of ODEs using Rosenbrock Method
 A Numerical Recipes Project - Solving a Stiff system of  ODEs using Rosenbrock method
 
+By [Amirhossein Rezaei](https://www.researchgate.net/profile/Amirhossein-Rezaei-2?ev=hdr_xprf&_sg=QEXFYpE24Sa1_XWjefMs8mb3F8TnZVp0Abqt0MAtKbsNDbPvvFEcCKXxU4pw3NrLhBWN-s2al6MeUOsBC3kvD8Cd)
+Advisor: [Prof. Siamak Gousheh](https://www.researchgate.net/profile/S-Gousheh?_sg=WoqxMgpDwczLNu4HdADavg55gAD44iEgchW-FHcMt4k9-hMptQsGIovVpgQ1tr1Z1_AwsrfjS6RaNYs_vunikRrerJaR7fnt)
+
 ### NR
 
 <p align="middle">
