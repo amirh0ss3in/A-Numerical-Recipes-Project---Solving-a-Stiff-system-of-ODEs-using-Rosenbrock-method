@@ -5,6 +5,9 @@ Solving a Stiff System of ODEs using Rosenbrock Method.
 
 *Advisor: [Prof. Siamak Gousheh](https://www.researchgate.net/profile/S-Gousheh?_sg=WoqxMgpDwczLNu4HdADavg55gAD44iEgchW-FHcMt4k9-hMptQsGIovVpgQ1tr1Z1_AwsrfjS6RaNYs_vunikRrerJaR7fnt)*
    
+### A note on how to set up header files:
+1. Install the latest version of [Microsoft Visual Studio C/C++](https://visualstudio.microsoft.com/vs/features/cplusplus/).
+2. m
 ### NR
 
 <p align="middle">
