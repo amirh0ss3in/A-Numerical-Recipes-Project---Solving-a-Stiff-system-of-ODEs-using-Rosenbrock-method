@@ -1,6 +1,5 @@
 # A Numerical Recipes Project
-## Solving a Stiff System of ODEs using Rosenbrock Method
-A Numerical Recipes Project - Solving a Stiff system of  ODEs using Rosenbrock method.
+Solving a Stiff System of ODEs using Rosenbrock Method
 
 *By [Amirhossein Rezaei](https://www.researchgate.net/profile/Amirhossein-Rezaei-2?ev=hdr_xprf&_sg=QEXFYpE24Sa1_XWjefMs8mb3F8TnZVp0Abqt0MAtKbsNDbPvvFEcCKXxU4pw3NrLhBWN-s2al6MeUOsBC3kvD8Cd)*
 
