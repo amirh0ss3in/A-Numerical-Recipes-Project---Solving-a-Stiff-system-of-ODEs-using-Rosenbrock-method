@@ -31,4 +31,4 @@ Solving a Stiff System of ODEs using Rosenbrock Method.
 <p>
 
  ### Equations
-<img src="https://latex.codecogs.com/svg.image?\bg_white&space;\inline&space;f(x)&space;=&space;sin(\frac{1}{1-x})&space;" title="\bg_white \inline f(x) = sin(\frac{1}{1-x}) " />
+<img src="https://latex.codecogs.com/svg.image?\inline&space;\\&space;f(x)&space;=&space;sin(\frac{1}{1-x})&space;\\\\&space;f'(x)&space;=&space;\frac{cos(\frac{1}{1-x})}{(1-x)^2}&space;\\&space;&space;\\&space;f''(x)&space;=&space;\frac{2&space;cos(\frac{1}{1-x})}{(1-x)^3}&space;-&space;\frac{sin(\frac{1}{1-x})}{(1-x)^4}&space;\\&space;\\&space;u(x)&space;=&space;f'(x)\\&space;v(x)&space;=&space;f''(x)\\&space;&space;&space;" title="\inline \\ f(x) = sin(\frac{1}{1-x}) \\\\ f'(x) = \frac{cos(\frac{1}{1-x})}{(1-x)^2} \\ \\ f''(x) = \frac{2 cos(\frac{1}{1-x})}{(1-x)^3} - \frac{sin(\frac{1}{1-x})}{(1-x)^4} \\ \\ u(x) = f'(x)\\ v(x) = f''(x)\\ " />
