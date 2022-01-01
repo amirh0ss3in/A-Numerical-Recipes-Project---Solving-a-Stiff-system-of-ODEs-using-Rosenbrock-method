@@ -31,4 +31,4 @@ Solving a Stiff System of ODEs using Rosenbrock Method.
 <p>
 
  ### Equations
-  <img src="https://latex.codecogs.com/svg.image?\bg_black&space;f(x)&space;=&space;sin(\frac{1}{1-x})&space;" title="\bg_black f(x) = sin(\frac{1}{1-x}) " />
+ <img src="https://latex.codecogs.com/svg.image?\bg_white&space;f(x)&space;=&space;sin(\frac{1}{1-x})&space;" title="\bg_white f(x) = sin(\frac{1}{1-x}) " />
