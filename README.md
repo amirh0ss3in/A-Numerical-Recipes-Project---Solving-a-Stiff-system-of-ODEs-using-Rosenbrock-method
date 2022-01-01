@@ -7,7 +7,7 @@ Solving a Stiff System of ODEs using Rosenbrock Method.
    
 ### A note on header files and compiling:
 1. Install the latest version of [Microsoft Visual Studio C/C++](https://visualstudio.microsoft.com/vs/features/cplusplus/).
-2. Open headers and copy all the files into the include directory of VS under "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\ "
+2. Open headers and copy all the files into the include directory of VS under "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\"
 3. Now open Microsoft Visual Studio: Continue without code > Tools > Command Line > Developer Command Prompt
 4. Go to the directory of main.cc file (or whatever you name your new editted file) using cd command (path is the full name of the main.cc directory): ``` cd "path" ```
 5. Compile the file using CL command: ``` CL main.cc``` 
