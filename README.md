@@ -28,10 +28,10 @@ Solving a Stiff System of ODEs using Rosenbrock Method.
    <img src=https://github.com/amirh0ss3in/A-Numerical-Recipes-Project---Solving-a-Stiff-system-of-ODEs-using-Rosenbrock-method/blob/main/Images/Python/u.svg width="350" title="hover text">
    <img src=https://github.com/amirh0ss3in/A-Numerical-Recipes-Project---Solving-a-Stiff-system-of-ODEs-using-Rosenbrock-method/blob/main/Images/Python/v.svg width="350" title="hover text">
    <img src=https://github.com/amirh0ss3in/A-Numerical-Recipes-Project---Solving-a-Stiff-system-of-ODEs-using-Rosenbrock-method/blob/main/Images/Python/difference.svg width="350" title="hover text">
-<p>
+</p>
 
  ### Equations
    <p align="middle">
 <img src="https://latex.codecogs.com/svg.image?\inline&space;\\&space;f(x)&space;=&space;sin(\frac{1}{1-x})&space;\\\\&space;f'(x)&space;=&space;\frac{cos(\frac{1}{1-x})}{(1-x)^2}&space;\\&space;&space;\\&space;f''(x)&space;=&space;\frac{2&space;cos(\frac{1}{1-x})}{(1-x)^3}&space;-&space;\frac{sin(\frac{1}{1-x})}{(1-x)^4}&space;\\&space;\\\left\{\begin{matrix}&space;u(x)&space;=&space;f'(x)&space;\\&space;v(x)&space;=&space;f''(x)\end{matrix}\right.\to&space;\left\{\begin{matrix}&space;u(0)&space;=&space;sin(1)&space;\\&space;v(0)&space;=&space;cos(1)\end{matrix}\right.\\\\\boxed{&space;&space;\!\begin{aligned}&space;&space;&u'(x)&space;=&space;v\\&space;&space;&v'(x)&space;=&space;\frac{2v}{1-x}&space;-&space;\frac{u}{(1-x)^4}&space;&space;\end{aligned}}" title="\inline \\ f(x) = sin(\frac{1}{1-x}) \\\\ f'(x) = \frac{cos(\frac{1}{1-x})}{(1-x)^2} \\ \\ f''(x) = \frac{2 cos(\frac{1}{1-x})}{(1-x)^3} - \frac{sin(\frac{1}{1-x})}{(1-x)^4} \\ \\\left\{\begin{matrix} u(x) = f'(x) \\ v(x) = f''(x)\end{matrix}\right.\to \left\{\begin{matrix} u(0) = sin(1) \\ v(0) = cos(1)\end{matrix}\right.\\\\\boxed{ \!\begin{aligned} &u'(x) = v\\ &v'(x) = \frac{2v}{1-x} - \frac{u}{(1-x)^4} \end{aligned}}" />
       
-<\p>
+</p>
