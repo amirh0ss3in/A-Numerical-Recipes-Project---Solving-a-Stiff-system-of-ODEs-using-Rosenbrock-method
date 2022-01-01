@@ -13,7 +13,7 @@ Solving a Stiff System of ODEs using Rosenbrock Method.
 5. Compile the file using CL command: ``` CL main.cc``` 
 6. Run the file: ```main```
 
-### NR
+### NR (Rosenbrock method)
 
 <p align="middle">
    <img src=https://github.com/amirh0ss3in/A-Numerical-Recipes-Project---Solving-a-Stiff-system-of-ODEs-using-Rosenbrock-method/blob/main/Images/NR/u.svg width="350" title="hover text">
@@ -22,7 +22,7 @@ Solving a Stiff System of ODEs using Rosenbrock Method.
 </p>
 
 
-### Python
+### Python (SciPy's LSODA Method)
    
 <p align="middle">
    <img src=https://github.com/amirh0ss3in/A-Numerical-Recipes-Project---Solving-a-Stiff-system-of-ODEs-using-Rosenbrock-method/blob/main/Images/Python/u.svg width="350" title="hover text">
