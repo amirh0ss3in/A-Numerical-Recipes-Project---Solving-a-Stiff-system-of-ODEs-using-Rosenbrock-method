@@ -1,0 +1,21 @@
+https://editor.codecogs.com/
+
+\\ f(x) = sin(\frac{1}{1-x}) 
+\\
+\\ f'(x) = \frac{cos(\frac{1}{1-x})}{(1-x)^2} 
+\\  
+\\ f''(x) = \frac{2 cos(\frac{1}{1-x})}{(1-x)^3} - \frac{sin(\frac{1}{1-x})}{(1-x)^4} 
+\\ 
+\\
+\left\{\begin{matrix}
+ u(x) = f'(x) \\ v(x) = f''(x)
+\end{matrix}\right.
+\to 
+\left\{\begin{matrix}
+ u(0) = sin(1) \\ v(0) = cos(1)
+\end{matrix}\right.
+\\
+\\
+\boxed{  \!\begin{aligned}  &u'(x) = v\\
+  &v'(x) = \frac{2v}{1-x} - \frac{u}{(1-x)^4}
+  \end{aligned}}
