@@ -29,3 +29,6 @@ Solving a Stiff System of ODEs using Rosenbrock Method.
    <img src=https://github.com/amirh0ss3in/A-Numerical-Recipes-Project---Solving-a-Stiff-system-of-ODEs-using-Rosenbrock-method/blob/main/Images/Python/v.svg width="350" title="hover text">
    <img src=https://github.com/amirh0ss3in/A-Numerical-Recipes-Project---Solving-a-Stiff-system-of-ODEs-using-Rosenbrock-method/blob/main/Images/Python/difference.svg width="350" title="hover text">
 <p>
+
+ ### Equations
+   <img src="https://latex.codecogs.com/svg.image?f(x)&space;=&space;sin(\frac{1}{1-x})&space;" title="f(x) = sin(\frac{1}{1-x}) " />
