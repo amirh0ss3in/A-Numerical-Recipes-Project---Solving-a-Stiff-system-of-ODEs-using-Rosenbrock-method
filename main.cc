@@ -63,14 +63,14 @@ for (Int i=0;i<out.count;i++)
 {
 	//output to console window
 	cout << out.xsave[i] << " " << out.ysave[0][i] << " " << out.ysave[1][i]<< " " << f(out.xsave[i]) - out.ysave[0][i] << " " << endl;
-	//write data to data.txt
+	//write data to data_ode.txt
     outFile << out.xsave[i] << setw(100)<<fixed << setprecision(100) << " " << out.ysave[0][i] << " " << out.ysave[1][i] << " "<< f(out.xsave[i]) - out.ysave[0][i] << " " << endl;
 
 }
 
 cout << endl << out.count << endl;  //displays the number of points output by the program
 
-	outFile.close();  //  Closes the data output file!
+	outFile.close();  //  Closes the data output file.
 
 	system("Pause");
 
