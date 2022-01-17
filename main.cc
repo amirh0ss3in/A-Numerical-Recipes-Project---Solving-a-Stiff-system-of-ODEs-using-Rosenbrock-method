@@ -50,8 +50,8 @@ int main()
 	VecDoub ystart(nvar);
 
 	//Initial conditions
-	ystart[0]=0.841470984807897;  // u(0); Sin(1)
-	ystart[1]=0.540302305868140;  // v(0); Cos(1)
+	ystart[0] = sin(1);  // u(0); Sin(1)
+	ystart[1] = cos(1);  // v(0); Cos(1)
 
 	Output out(5000);  //the value inside out is the user defined number of points required.
 	system_of_ode d;
